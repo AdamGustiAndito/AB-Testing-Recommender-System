@@ -1,5 +1,5 @@
 # 📊 AB Testubg Recommender System
-** A/B Testing Proyek Final Data Analyst TripleTen**
+**A/B Testing Proyek Final Data Analyst TripleTen**
 
 ## 📌 Deskripsi
 Proyek kali ini berupa sebuah tugas analitik dari suatu toko online internasional.󠀲󠀡󠀠󠀦󠀥󠀨󠀡󠀧󠀳󠀰 Proyek ini bertujuan untuk menguji perubahan terkait pengenalan sistem rekomendasi yang telah ditingkatkan󠀲󠀡󠀠󠀦󠀥󠀨󠀢󠀧󠀳. Proyek ini menggunakan metode A/B Testing. 
