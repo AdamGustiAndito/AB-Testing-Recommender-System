@@ -1,4 +1,4 @@
-# 📊 AB Testubg Recommender System
+# 📊 AB Testing Recommender System
 **A/B Testing Proyek Final Data Analyst TripleTen**
 
 ## 📌 Deskripsi
